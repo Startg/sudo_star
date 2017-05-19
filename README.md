@@ -11,9 +11,9 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 cd $HOME
 
-git clone https://github.com/mamadkiller/antispam
+git clone https://github.com/Startg/sudo_star.git
 
-cd antispam
+cd sudo_star
 
 chmod +x launch.sh
 
@@ -30,7 +30,7 @@ chmod +x launch.sh
 pm Intelegram
 @userinfobot
 
-antispam/data/confing.lua                        
+Sudo_star/data/confing.lua                        
 ```
 
 
@@ -40,7 +40,7 @@ antispam/data/confing.lua
 
 ## Run Bot
 ```
-cd antispam
+cd sudo_star
 
 Use ./launch.sh to run your bot normaly or use screen ./launch.sh for auto launch mode 
 ```
@@ -52,5 +52,5 @@ Use ./launch.sh to run your bot normaly or use screen ./launch.sh for auto launc
 
 ## Developer
 
-* [Mamadkiller](https://telegram.me/Mamadkiller)
+* @sudo_star *
 
